@@ -25,8 +25,8 @@ Make sure you have Python 3 installed. Open a terminal and run any project direc
 python3 fruit-stand.py
 python3 plane.py
 python3 speak.py
-python3 turle-example-00.py
 python3 turtle-00.py
+python3 turtle-01.py
 ```
 
 ---
