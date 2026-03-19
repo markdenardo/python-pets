@@ -1,3 +1,6 @@
+# Plane Classes
+# Defines a Plane class and creates two plane objects.
+
 class Plane:
     def __init__(self, name, sp, wt, acc, hnd):
         self.name = name

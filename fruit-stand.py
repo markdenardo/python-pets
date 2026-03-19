@@ -1,3 +1,6 @@
+# Fruit Stand Game
+# Randomly picks a fruit from a basket until you say yes.
+
 import random
 answer=""
 basket=["bananas","apples","cherries"]

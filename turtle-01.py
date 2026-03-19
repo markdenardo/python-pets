@@ -1,3 +1,6 @@
+# Turtle Flower (Example)
+# Draws flower patterns using a function and turtle graphics.
+
 import turtle
 t = turtle.Turtle()
 t.speed(5) # 1:slowest, 3:slow, 5:normal, 10:fast, 0:fastest
