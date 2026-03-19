@@ -1,6 +1,7 @@
 # Python Pets
 
-A collection of Python projects for advanced primary school students. Each project explores a different concept — from random choices and classes to graphics and text-to-speech.
+A collection of Python projects for advanced primary school students. 
+Each project explores a different concept — from random choices and classes to graphics and text-to-speech.
 
 ---
 
