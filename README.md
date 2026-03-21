@@ -35,14 +35,6 @@ python3 turtle-01.py
 
 The easiest way to explore the projects is with the launcher. It shows you the code and runs any project with one click.
 
-```bash
-python3 launcher.py
-```
-
-- Select a project from the list on the left
-- Read the code on the right
-- Press **Run Project** to open it in a terminal window
-
 ---
 
 ## Requirements
