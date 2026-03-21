@@ -31,12 +31,6 @@ python3 turtle-01.py
 
 ---
 
-## Launcher
-
-The easiest way to explore the projects is with the launcher. It shows you the code and runs any project with one click.
-
----
-
 ## Requirements
 
 Most projects use Python's built-in libraries. The `speak.py` project needs one extra package:
